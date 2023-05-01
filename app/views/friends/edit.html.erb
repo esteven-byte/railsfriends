@@ -1,0 +1,16 @@
+<h1>Editing friend</h1>
+
+
+<%= render "form", friend: @friend %>
+
+<br>
+
+<div class="btn-group" role="group" aria-label="Basic example">
+  <%= link_to "Show friend", @friend, class:"btn btn-secondary" %> 
+  <%= link_to "Remove Friend", @friend, data:{
+                turbo_method: :delete,
+                turbo_confirm: 'Are you sure?'}, 
+                class:"btn btn-danger" %> 
+  <%= link_to "Back to friends", friends_path, class:"btn btn-secondary" %>
+</div>
+<br></br>
