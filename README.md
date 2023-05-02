@@ -1,24 +1,7 @@
-# README
+# Steven's Friend App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hi I'm Steven and this is my Friends app using Ruby on Rails.
+I built this app to get more family to get more familiar with the
+Rails web application framework and the Ruby programing language.
+I had fun building this app and I hope to build more web applications
+in the future using the Rails framework.
